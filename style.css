@@ -1,0 +1,46 @@
+.bg-dark{
+    background-color: #0b0b0b;
+    
+    background-size:cover;
+}
+.bulb-image{
+    width: 150px;
+    
+}
+.cat-img{
+    width: 250px;
+}
+.onswitch{
+    background-color: green;
+    height: 44px;
+    width: 99px;
+    color: aliceblue;
+    border-radius: 8px;
+    margin-left: 10px;
+    border:none;
+}
+
+.offswitch{
+    background-color: red;
+    height: 44px;
+    width: 99px;
+    border-radius: 8px;
+    color: aliceblue;
+    border: none;
+    
+
+    
+}
+.switchcard{
+    background-color: #7b8794;
+    width: 294px;
+    height: 139px;
+    border-radius: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: 16px;
+    border-color:solid red;
+    
+}
